@@ -9,7 +9,7 @@
     margin-top: 50px;
 }
 
-.headin :hover{
+.heading:hover{
     background-color: red;
     color:yellow;
 }
@@ -22,4 +22,14 @@ canvas{
     border:2px dashed black;
     margin-top:150px;
     border-radius: 75px;
+    background-color: black;
+}
+
+.footer{
+    width:50%;
+    line-height: 2;
+    
+    border-radius:75px;
+    margin-top:10px;
+    font-size:18px;
 }
